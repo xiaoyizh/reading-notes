@@ -70,3 +70,30 @@ providing direction
 - decrease dependency: criticality, substitutability, centrality
 - build union to decrease dependency. for example, union colleges to ask for pay raise.
 
+
+### Duikheim: suicide & society
+
+- social fact: consist of manners of acting, thinking and feeling external to the individual, which are invested with a coercive power by virtue of which they exercise control over him. like give gifts in Christmas
+- social cohesion
+- common consciousness is  basically the collection of all the beliefs, morals, and ideas that are the social facts in a given society.
+- Duikheim: suicide is because of the decrease of social integration, people can not find their place.
+
+### Marx: conflict theory
+
+- freedom: labor to free from natural constrains. 
+
+  now to free from social constrains:
+
+  economy is the superstructure
+
+- saw historical development in terms of modes of production and economic classes.
+
+  working class(proletariat) and the capitalists(bourgeoisie)
+
+  crises of overproduction
+
+  forces of production run up against the limits created by the relations of production
+
+  history is a matter of struggling of classes, each aligned with either the forces or relations of production
+
+- hegemony: ruling class stay in power, in part, through hegemonic culture, a dominant set of ideas that a all-pervasive an taken for granted in a society.
