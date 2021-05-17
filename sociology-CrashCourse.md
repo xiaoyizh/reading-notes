@@ -27,3 +27,8 @@
 
   understand society as the product of everyday social interactions. We assign the meaning to interactions and objects
 
+## Dubois: race conflict
+
+- race is thought of as a social constructed category of people, who share biological traits that society is important.
+- racial formation: the process through which society, political, and economic forces influence how a society defines racial categories and how those categories turning into shaping forces.
+- racial resistance: how do different racial groups challenge and change the structures of power
