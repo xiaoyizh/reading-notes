@@ -32,3 +32,24 @@
 - race is thought of as a social constructed category of people, who share biological traits that society is important.
 - racial formation: the process through which society, political, and economic forces influence how a society defines racial categories and how those categories turning into shaping forces.
 - racial resistance: how do different racial groups challenge and change the structures of power
+
+## Max Weber&Modernity
+
+- traditionalism sees the world as having a basic order, and that order is the way things ought to be.
+
+- modernity: rationality: calculability, methodical behavior, reflexivity
+
+- the transition from traditionalism to modernity began with the Protestant Reformation.
+
+- bureaucracy:
+
+  hierarchy: made of a variety of very specialized roles and is held together by formal, written communications.
+
+  impersonally
+
+- legal-rational legitimacy: follow the rules
+- charismatic legitimacy: make the rules
+- social stratification: class, political parties, status groups
+- rationalism is easy to lose reflexivity.
+
+
