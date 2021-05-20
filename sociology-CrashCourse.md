@@ -52,4 +52,14 @@
 - social stratification: class, political parties, status groups
 - rationalism is easy to lose reflexivity.
 
+## Symbols, Values & Norms
+
+- culture: the way that non-material objects - like thoughts, action, language, and values - come together with material objects to form a way of life.
+- symbols: anything that carries a specific meaning that's recognized by people who share a culture.
+- values: the cultural standards that people use to decide what's good or bad, what's right or wrong. They serve as the ideals and guidelines that we live by.
+- beliefs: specific ideas about what people thinks is true about the world
+- norms: the rules and expectations that guide behavior within a society.
+  - folkways: informal little rules that kind of go without saying.
+  - mores: more official than folkways and tend to be codified, or formalized, as the stated rules and laws of society.
+  - taboo: crucial to a society's moral center, involving behaviors that are always negatively sanctioned.
 
